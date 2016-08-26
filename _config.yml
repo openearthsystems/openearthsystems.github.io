@@ -1,0 +1,6 @@
+defaults:
+  -
+    scope:
+      path: "projects"
+    values:
+    	layout: "project"
