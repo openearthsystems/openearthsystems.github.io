@@ -3,4 +3,4 @@ defaults:
     scope:
       path: "projects"
     values:
-    	layout: "project"
+      layout: "project"
