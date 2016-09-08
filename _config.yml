@@ -6,6 +6,7 @@ defaults:
       layout: "project"
       
 prose:
+  media: "images"
   metadata:
     projects/_posts:
       - name: "title"
@@ -13,3 +14,4 @@ prose:
           element: "text"
           value: "title"
           label: "Title"
+  
