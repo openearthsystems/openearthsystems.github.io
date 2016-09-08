@@ -14,7 +14,7 @@ Li, M.M., B. Black, S.J. Zhong, M. Manga, M.L. Rudolph, P. Olson (2016), Quantif
  
 Liu, X., S.J. Zhong, Constraining mantle viscosity structure for a thermochemical mantle using the geoid observation (2016), Geochem. Geophys. Geosyst., 17, 895-913.  [http://dx.doi.org/10.1002/2015GC006161](http://dx.doi.org/10.1002/2015GC006161)
  
-Olson, P., 2016. Mantle control of the geodynamo: Consequences of top‐down regulation. 
+Olson, P., (2016), Mantle control of the geodynamo: Consequences of top‐down regulation. 
 Geochemistry, Geophysics, Geosystems.  [http://dx.doi.org/10.1002/2016GC006334](http://dx.doi.org/10.1002/2016GC006334) 
   
 Olson, P., E. Reynolds, L. Hinnov, and A. Goswami (2016), Variation of ocean sediment thickness with crustal age, Geochem. Geophys. Geosyst., 17. [http://dx.doi.org/10.1002/2015GC006143](http://dx.doi.org/10.1002/2015GC006143)
