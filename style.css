@@ -245,6 +245,7 @@ a.newsLink:visited {
 	sbackground-color: #e0e3e3; #dcdcdc;
 	border-top: 1px solid #d5d7d7;
 	font-family: Georgia, serif;
+  text-align:center;
 }
 
 
@@ -275,6 +276,7 @@ a.element {
 	font-family: Arial, sans-serif;
 	font-size: 80%;
 	color: #7c7c7c;
+  text-align:center;
 }
 
 #footer table {
