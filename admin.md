@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: nil
 published: true
 ---
 ## Admin Page
