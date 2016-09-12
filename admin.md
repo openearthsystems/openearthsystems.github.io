@@ -2,9 +2,9 @@
 layout: nil
 published: true
 ---
+{% include header.html %}
+</div>
 ## Admin Page
-
-
 
 <div id="projectnav">
 [+ Add publication](http://prose.io/#openearthsystems/openearthsystems.github.io/edit/master/publications.md)
