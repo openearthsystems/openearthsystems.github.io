@@ -14,4 +14,8 @@ prose:
           element: "text"
           value: "title"
           label: "Title"
-  
+      - name: "published"
+      field:
+        element: "checkbox"
+        label: "Published"
+        value: true
