@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: test project
 ---
 ## A New Post
